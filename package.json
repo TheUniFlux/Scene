@@ -1,0 +1,12 @@
+{
+    "name": "com.kingdox.uniflux.scene",
+    "displayName": "UniFlux.Scene",
+    "author": { "name": "Xavier Thomas Peter Arpa López ('Kingdox')", "url": "https://github.com/kingdox" },
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Scene Manager with UniFlux.",
+    "keywords": [ "Flux", "Unity", "UniFlux", "scene" ],
+    "license": "MIT",
+    "category": "Flux",
+    "dependencies": {}
+}
